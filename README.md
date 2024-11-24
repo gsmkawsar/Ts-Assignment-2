@@ -7,7 +7,7 @@ A simple and scalable CRUD (Create, Read, Update, Delete) application built with
 ---
 
 ## **Live URL**
-[Live Link](https://level-2-a2-psi.vercel.app/)   
+[🌐Live Link](https://level-2-a2-psi.vercel.app/)   
 
 ---
 
