@@ -7,7 +7,7 @@ A simple and scalable CRUD (Create, Read, Update, Delete) application built with
 ---
 
 ## **Live URL**
-🌐 [Live Demo](#https://level-2-a2-psi.vercel.app/)  
+[Live Link](https://level-2-a2-psi.vercel.app/)   
 
 ---
 
@@ -19,7 +19,7 @@ A simple and scalable CRUD (Create, Read, Update, Delete) application built with
 
 ---
 
-## **Technologies Used**
+## **The technology that I used**
 
 ### **Node.js**  
 🚀 Node.js is a runtime environment for executing JavaScript code outside the browser. It enables building scalable, high-performance server-side applications using asynchronous, event-driven programming and a vast package ecosystem.
